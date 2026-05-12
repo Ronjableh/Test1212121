@@ -2,8 +2,7 @@
 -- You wanna add your stuff in files in `custom`
 
 -- Environment variables --
--- require("hyprland/env")
---require("custom/env")
+require("custom/globals")
 
 -- Defaults --
 require("hyprland/execs")
