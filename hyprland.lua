@@ -11,8 +11,3 @@ require("hyprland/general")
 require("hyprland/rules")
 require("hyprland/colors")
 require("hyprland/keybinds")
-
-
-local terminal    = "kitty"
-local fileManager = "dolphin"
-local menu        = "hyprlauncher"
